@@ -1,4 +1,4 @@
-# Moody Me <img src="https://github.com/matt-martindale/Mood-Tracker/blob/master/imagesForReadMe/moody_me_app.png" alt="Moody Me Logo" width="50px"/>
+# Moody Me &nbsp;&nbsp; <img src="https://github.com/matt-martindale/Mood-Tracker/blob/master/imagesForReadMe/moody_me_app.png" alt="Moody Me Logo" width="50px"/>
 <img src="https://j.gifs.com/jZkjxY.gif" width="300" />
 This app allows you track your mood. Your mood changes periodically and for many reasons. It's hard to remember events that caused the mood changes. 
 With this app you can look back to what caused those changes. 
